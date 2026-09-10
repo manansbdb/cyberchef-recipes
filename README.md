@@ -23,6 +23,16 @@ Funciona na versão online ou local. Abre o CyberChef, segue os passos (ou impor
 | Extrair IPs | [`extract-ips.json`](./recipes/extract-ips.json) | Extrair endereços IPv4 de um log |
 | JSON beautify | [`json-beautify.json`](./recipes/json-beautify.json) | Formatizar JSON |
 
+## Support / Apoio
+
+Doações em Bitcoin são bem-vindas:
+
+```
+bc1q0qfnlnxyum9u45stzxe0a7jnhtj4j0usfkqdjw
+```
+
+Detalhes em [SUPPORT.md](./SUPPORT.md).
+
 ## Contribuições
 
 PRs com novas receitas (JSON + linha na tabela) são bem-vindos. Mantém cada receita focada numa tarefa.
