@@ -1,0 +1,3 @@
+[
+  { "op": "Extract IP addresses", "args": [true, false, false] }
+]
